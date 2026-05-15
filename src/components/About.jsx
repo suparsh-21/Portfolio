@@ -56,7 +56,7 @@ export default function About() {
                 </div>
               </div>
               <div className="edu-item">
-                <div className="edu-year">2019–21</div>
+                <div className="edu-year">2020–21</div>
                 <div>
                   <div className="edu-degree">SSC (Class X)</div>
                   <div className="edu-inst">Int International Jammu</div>
