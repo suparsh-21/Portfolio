@@ -10,7 +10,7 @@ export default function About() {
         <div className="about-grid">
           <div className="about-text reveal">
             <p>
-              Hey! I'm <strong>Suparsh Pandita</strong>, a 2nd year Computer Engineering student at
+              Hey! I'm <strong>Suparsh Pandita</strong>, final year Computer Engineering student at
               L.D. College of Engineering, Ahmedabad. I enjoy turning ideas into real-world web
               applications — the kind that actually work and look good doing it.
             </p>
