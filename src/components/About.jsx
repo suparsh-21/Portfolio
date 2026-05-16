@@ -52,7 +52,7 @@ export default function About() {
                 <div>
                   <div className="edu-degree">HSC (Class XII)</div>
                   <div className="edu-inst">Govt Mixed Jammu, JKBOSE</div>
-                  <div className="edu-score">94.8%</div>
+                  <div className="edu-score">96.8%</div>
                 </div>
               </div>
               <div className="edu-item">
